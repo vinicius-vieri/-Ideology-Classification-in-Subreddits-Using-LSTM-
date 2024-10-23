@@ -6,8 +6,8 @@ Este projeto utiliza Processamento de Linguagem Natural (PLN) e Redes Neurais do
 
 ## Objetivo
 Classificar postagens dos subreddits `r/Liberal` e `r/Conservative` em dois rótulos:
-- **0**: Liberal
-- **1**: Conservador
+- **1**: Liberal
+- **0**: Conservador
 
 O projeto visa verificar a predominância de críticas ou apoios nos textos e explorar possíveis padrões ideológicos.
 
