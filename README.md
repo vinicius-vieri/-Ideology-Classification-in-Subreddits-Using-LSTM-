@@ -2,6 +2,8 @@
 
 Este projeto utiliza Processamento de Linguagem Natural (PLN) e Redes Neurais do tipo Long Short-Term Memory (LSTM) para classificar orientações ideológicas (liberal ou conservadora) de artigos postados em subreddits específicos. O foco é identificar diferenças ideológicas computáveis entre os textos.
 
+!! Como o dataset é pesado, ele não pode ser colocado no github, portanto você pode acessar o link diretamente: [Liberal](https://data.mendeley.com/public-files/datasets/2tdr9sjd83/files/d21f079a-5f2a-44fe-adc5-f9cdd509fc1f/file_downloaded) // [Conservador](https://data.mendeley.com/public-files/datasets/2tdr9sjd83/files/eb1016b5-31b2-4825-bc06-c44ee0735efc/file_downloaded)
+
 ## Objetivo
 Classificar postagens dos subreddits `r/Liberal` e `r/Conservative` em dois rótulos:
 - **0**: Liberal
